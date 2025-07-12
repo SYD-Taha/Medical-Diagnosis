@@ -156,7 +156,7 @@ You’ll see:
 
 ## 🙌 Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [Syed Taha Jameel](https://github.com/SYD-Taha)
 
 ---
 
